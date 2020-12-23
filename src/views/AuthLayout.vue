@@ -90,7 +90,7 @@
               <a
                 href="https://www.creative-tim.com/?ref=mdf-vuejs"
                 target="_blank"
-                >Creative Tim</a
+                >Piqui.Net</a
               >, made with <i class="fa fa-heart heart"></i> for a better web
             </div>
           </div>
